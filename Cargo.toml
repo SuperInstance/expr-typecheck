@@ -1,0 +1,9 @@
+[package]
+name = "expr-typecheck"
+version = "0.1.0"
+description = "A Rust library for Expr Typecheck"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/expr-typecheck"
+edition = "2021"
+
+[dependencies]
