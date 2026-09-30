@@ -1,9 +1,11 @@
 [package]
 name = "expr-typecheck"
 version = "0.1.0"
-description = "A Rust library for Expr Typecheck"
+description = "Expr Typecheck — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/expr-typecheck"
+repository = "https://github.com/SuperInstance/expr-typecheck"
 edition = "2021"
+
+keywords = ["expr-typecheck"]
 
 [dependencies]
